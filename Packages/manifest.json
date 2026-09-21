@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.annulusgames.alchemy": "https://github.com/annulusgames/Alchemy.git?path=/Alchemy/Assets/Alchemy#33e88d06919e847a4c5c6adca4a928e418c1ea69",
-    "com.coplaydev.unity-mcp": "https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main",
+    "com.coplaydev.unity-mcp": "https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#c14de1e6dc01ab42d2bb358730cff954bce0ce6b",
     "com.kyrylokuzyk.primetween": "1.4.8",
     "com.unity.cinemachine": "3.1.7",
     "com.unity.collab-proxy": "2.12.4",
