@@ -1,0 +1,19 @@
+{
+    "name": "JamKit.Runtime",
+    "rootNamespace": "JamKit",
+    "references": [
+        "Unity.InputSystem",
+        "PrimeTween.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

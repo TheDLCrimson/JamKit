@@ -1,0 +1,19 @@
+{
+    "name": "JamKit.InteractionKit.Editor",
+    "rootNamespace": "JamKit.InteractionKit.Editor",
+    "references": [
+        "JamKit.InteractionKit",
+        "JamKit.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

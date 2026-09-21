@@ -1,0 +1,13 @@
+{
+  "name": "com.crimson.jamkit",
+  "version": "1.0.0",
+  "displayName": "JamKit",
+  "description": "Reusable Unity Game Jam Toolkit: core services, UI/feel layer, data pipeline, and editor tooling extracted from prior jam projects.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.19.0",
+    "com.kyrylokuzyk.primetween": "1.4.8",
+    "com.unity.render-pipelines.core": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+  }
+}

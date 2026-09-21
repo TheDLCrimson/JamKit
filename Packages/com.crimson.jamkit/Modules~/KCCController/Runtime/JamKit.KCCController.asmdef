@@ -1,0 +1,19 @@
+{
+    "name": "JamKit.KCCController",
+    "rootNamespace": "JamKit.KCC",
+    "references": [
+        "JamKit.Runtime",
+        "Unity.InputSystem",
+        "KinematicCharacterController",
+        "Alchemy"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
